@@ -1,6 +1,8 @@
 # xposedExample
 one small Android program with xposed fake red clock
 xposed拦截系统函数
-beforeMethod 
+beforeMethod
+
 afterMethod
+> android源码级别编码
 
